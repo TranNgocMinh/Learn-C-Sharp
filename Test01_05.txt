@@ -1,9 +1,0 @@
-1. Ba số nguyên dương a, b, c là độ dài các cạnh của một tam giác nếu tổng của 2 số bất kỳ lớn hơn số còn lại. 
-Nhập 3 số a, b, c và kiểm tra xem chúng có thể là độ dài của các cạnh của một tam giác hay không.
-2. Nhập vào số nguyên dương n. Tính tổng S(n) = 1/2 + 3/4 + 5/6 +…+ (2n+1)/(2n+2)
-3. Giải phương trình bậc nhất: ax + b = 0 (a # 0).
-4. Chuyển một số từ 0 - 9 sang hệ nhị phân và ngược lại.
-5.Kiểm tra xem số N có phải là số nguyên tố không.
-Gợi ý: 
-Số nguyên tố là số chỉ chia hết cho chính nó và 1. Ví dụ: 1, 3, 5, 7, 11, 13,… là số nguyên tố.
-Nếu (N%i == 0) với mọi i = ( 2 – N/2) thì N là số nguyên tố.
