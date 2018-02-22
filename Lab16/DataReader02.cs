@@ -1,3 +1,7 @@
+// The SqlDataReader can retrieve multiple result sets and access them in the same manner it can access rows. 
+// The reader is on the first result set by default, but if you have any subsequent result sets, you can 
+// call NextResult and the reader will move to the next result set. 
+// You can call Read again to move to the first row (if any). 
 using System;
 using System.Collections.Generic;
 using System.Linq;
