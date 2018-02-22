@@ -34,7 +34,7 @@
                     connection.Open();
                     return command.ExecuteNonQuery();
                 }
-                //Console.WriteLine("Mo va dong co so du lieu thanh cong.");
+               
                 
             }
             catch (Exception ex)
