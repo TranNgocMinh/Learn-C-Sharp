@@ -5,7 +5,7 @@
     using (SqlCommand command = new SqlCommand( 
         "SELECT TenSV FROM SinhVien WHERE MaSV = @MaSV", connection)) 
     { 
-        command.Parameters.Add("MaSV", SqlDbType.Int).Value = MaSV; 
+        command.Parameters.Add("MaSV", SqlDbType.NVarChar).Value = MaSV; 
         connection.Open(); 
         object result = command.ExecuteScalar(); 
         string TenSV = null; 
