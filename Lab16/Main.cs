@@ -1,4 +1,5 @@
- static void Main(string[] args)
+// Using InsertData, UpdateData, DeleteData methods 
+static void Main(string[] args)
         {
 
             LoadData();
