@@ -20,4 +20,5 @@ Table of contents:
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab16">ADO.NET - DataReader</a></li>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab17">ADO.NET - DataAdapter, DataTable, DataSet</a></li>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab18">EntityFramework Database First</a></li>
+  <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab19">EntityFramework Code First</a></li>
 </ul>
