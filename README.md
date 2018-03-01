@@ -1,9 +1,10 @@
 Labs are used to learn C# programming at https://ngocminhtran.com/hoc-c-va-wpf-windows-presentation-foundation/
+<br/>
 Table of contents:
 <ul>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab01">Hello</a></li>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab02">Primitive data types, operators</a></li>
-  <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab03">Methods</a></li
+  <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab03">Methods</a></li>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab04">if, switch</a></li>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab05">Loops</a></li>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab06">Arrays</a></li>
