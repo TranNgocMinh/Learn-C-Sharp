@@ -1,6 +1,5 @@
-Labs are used to learn C# programming at https://ngocminhtran.com/hoc-c-va-wpf-windows-presentation-foundation/
-<br/>
-Table of contents:
+<h3>Read <a href="https://ngocminhtran.com/hoc-c-va-wpf-windows-presentation-foundation/">online docs (VietNamese version)</a></h3> 
+<h3>Code list:</h3>
 <ul>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab01">Hello</a></li>
   <li><a href="https://github.com/TranNgocMinh/Learn-C-Sharp/tree/master/Lab02">Primitive data types, operators</a></li>
